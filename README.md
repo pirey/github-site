@@ -1,4 +1,4 @@
-# vue-site
+# github-site
 
 ## Project setup
 ```
